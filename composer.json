@@ -7,11 +7,6 @@
             "email": "esvit666@gmail.com"
         }
     ],
-    "autoload": {
-        "psr-0": {
-            "Bazalt\\Angular": "src/"
-        }
-    },
     "require": {
         "php": ">=5.4.0"
     },
